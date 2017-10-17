@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Konviv/node-setup/issues"
   },
-  "homepage": "https://github.com/Konviv/node-setup#readme"
+  "homepage": "https://github.com/Konviv/node-setup#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
 }
